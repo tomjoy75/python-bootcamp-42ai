@@ -1,0 +1,16 @@
+# 42AI Bootcamp
+https://github.com/tomjoy75/python-bootcamp-42ai/tree/main
+
+# conda
+https://docs.conda.io/projects/conda/en/stable/commands/remove.html
+
+# python
+https://learnxinyminutes.com/python/
+### A regarder
+https://diveintopython3.problemsolving.io/
+https://python.swaroopch.com/
+https://www.geeksforgeeks.org/python-programming-language/
+
+# python for IA
+https://jakevdp.github.io/PythonDataScienceHandbook/
+https://python.langchain.com/docs/
